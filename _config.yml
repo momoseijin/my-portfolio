@@ -16,7 +16,7 @@ timezone: Asia/Tokyo
 
 title: Shiromiso's portsolio # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Shiromiso's portsolio # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   このサイトはShiromiso(a.k.a. momoseijin)のポートフォリオサイトです。
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Shiromiso(a.k.a. momoseijin)
-  email: example@domain.com # change to your email address
+  #email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
@@ -46,7 +46,7 @@ social:
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
-    - https://real-escape/@momomseijin
+    - https://real-escape/@momoseijin
 
 # Site Verification Settings
 webmaster_verifications:
